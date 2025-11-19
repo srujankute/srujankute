@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hey there! 👋 I'm Srujan Kute
+**Final-Year IT Engineering Student | Data Analytics | AWS | Data Science**
 
-<!--
-**srujankute/srujankute** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm passionate about leveraging data to solve real-world problems through machine learning, data analysis, and cloud technologies.
 
-Here are some ideas to get you started:
+## 🎯 About Me
+- 🎓 Final-year IT Engineering student from India.
+- 💡 Passionate about Data Analysis, Data Science, AWS ,Machine Learning.
+- 🔬 Interested in NLP, Predictive Analytics & Data-Driven Solutions.
+- 🏋️ Gym enthusiast and Percussionist.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack
+- **Languages**: Python, PHP, Java, SQL
+- **Data Analysis**:Excel, PowerBI, Tableu
+- **Data Science**: Machine Learning, NLP, TensorFlow, Scikit-learn
+- **Cloud**: AWS (S3, Lambda, EC2, Athena, QuickSight)
+- **Web Frameworks**: Laravel, Django, Spring Boot
+- **Tools**: VS Code, Jupyter Notebook, Git
+
+## 📊 Featured Projects
+Check out my pinned repositories below for my best work!
+
+## 🌱 Currently Learning
+- Deep Learning & CNN
+- AWS Solutions Architecture
+- Advanced Data Analytics
+
+## 📧 Let's Connect
+- LinkedIn: https://linkedin.com/in/srujankute
+- Email: srujankute@gmail.com
+
